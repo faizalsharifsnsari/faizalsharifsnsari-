@@ -1,4 +1,4 @@
-# faizalsharifsnsari-
+![logo](https://github.com/faizalsharifsnsari/faizalsharifsnsari-/blob/main/WhatsApp%20Image%202024-12-20%20at%2016.04.56_25df1bcc.jpg)
 <h1 align="center">Hi 👋, I'm Faizal Sharif Ansari</h1>
 <h3 align="center">A passionate Student from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
